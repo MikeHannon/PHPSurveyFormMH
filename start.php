@@ -8,7 +8,7 @@ session_start();
     <meta charset="utf-8">
     <title>Main Form Page</title>
   </head>
-
+<!-- This part looks good mostly, alignment is a little weird at the bottom of text area though -->
   <body>
     <main>
       <fieldset>
